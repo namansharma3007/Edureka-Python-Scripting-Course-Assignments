@@ -1,0 +1,1 @@
+list=["hadoop","python","Android"]

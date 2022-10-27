@@ -1,0 +1,8 @@
+'''
+r - This is the default mode. Opens a file for reading only
+rb - Opens a file for reading only in binary format
+r+ - Opens a file for both reading and writing
+rb+ - Opens a file for both reading and writing in binary format
+w - Opens a file for writing only. Overwrites the file if the file exists. If the file does not exist, creates a new file for writing
+wb - Opens a file for writing only in binary format. Overwrites the file if 
+'''
